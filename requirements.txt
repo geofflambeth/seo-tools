@@ -37,4 +37,4 @@ SQLAlchemy==2.0.31
 typing_extensions==4.12.2
 urllib3>=2.2.2
 werkzeug>=3.0.6
-wheel==0.42.0
+wheel==0.46.2
